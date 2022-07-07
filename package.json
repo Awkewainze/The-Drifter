@@ -20,7 +20,7 @@
     "ffmpeg-static": "^2.4.0",
     "flexsearch": "^0.6.32",
     "libsodium-wrappers": "^0.7.4",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "node-opus": "^0.3.3",
     "opusscript": "0.0.6",
     "redis": "^2.8.0",
